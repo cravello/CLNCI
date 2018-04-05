@@ -1,0 +1,12 @@
+Prerequisites:
+--------------
+
+ - Python 3.6.3
+ - keras 2.1.2
+ - numpy 1.14.0
+ - pandas 0.20.2
+ - matplotlib 2.0.2
+ - h5py 2.7.1
+
+
+Run: python our_CNN.py
